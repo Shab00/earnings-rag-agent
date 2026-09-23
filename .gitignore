@@ -1,0 +1,5 @@
+.env
+data/faiss_index/
+data/transcripts/
+data/press_releases/
+__pycache__/
